@@ -24,7 +24,7 @@ Baixa um arquivo PDF da lista de produtos cadastrados:
 As técnicas e tecnologias utilizadas pra isso são:
 
 - `Framework`: PhpStorm;
-- `Linguagens`: PHP e HTML;
+- `Linguagens`: PHP, HTML, CSS e JavaScript;
 - `PDO`: Classe que permite a conexão com o Banco de Dados e aplicação de métodos;
 - `fetchAll()`: É usada em conjunto com uma consulta ao banco de dados para recuperar todos os registros resultantes dessa consulta;
 - `array_map`: Aplica uma função de callback a todos os elementos de um ou mais arrays e retorna um array com os resultados;
